@@ -5,8 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "server": "node server/server.js",
-    "client": "node client/client.js",
+    "server": "node src/server/server.js",
+    "client": "node src/client/client.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
